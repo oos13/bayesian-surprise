@@ -1,4 +1,4 @@
-id,Id,Geography,Population,Unemployment_Rate,Population Percent,Z Score,dM Score,P(D|M),P(M|D),Surprise,SignedSurprise
+id,Id,Geography,Population,Unemployment_Rate,Population_Percent,Z Score,dM Score,P(D|M),P(M|D),Surprise,SignedSurprise
 1001,0500000US01001,"Autauga County, Alabama",54571,0.097,0.000176751,0.285469108,0.003795244,0.99697184,0.49848592,0.002181045,0.002181045
 1003,0500000US01003,"Baldwin County, Alabama",182265,0.091,0.000590341,0.104222847,0.002532295,0.997979523,0.498989762,0.001455992,0.001455992
 1005,0500000US01005,"Barbour County, Alabama",27457,0.134,8.89E-05,1.403154385,0.013232188,0.98944255,0.494721275,0.007575248,0.007575248
